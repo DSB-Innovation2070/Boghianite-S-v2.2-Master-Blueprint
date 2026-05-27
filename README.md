@@ -1,7 +1,7 @@
 The AXION Project: Boghianite-S v2.2 Master Blueprint
 Operational Overview
 
-This repository functions as the official digital repository for the Boghianite-S v2.2 Living Structural Metamaterial Architecture, an independent research endeavor developed within the overarching framework of The AXION Project.
+This repository functions as the official digital archive for the Boghianite-S v2.2 Living Structural Metamaterial Architecture, an independent research endeavor developed within the overarching framework of The AXION Project.
 
 The primary objective of this repository is to provide a centralized location for the core technical asset, ensuring a verified point of access for independent verification and analytical review.
 Metadata Profile
@@ -12,16 +12,10 @@ Metadata Profile
 
     Institutional Affiliation: Independent Scientific Research
 
-Intellectual Property Framework & Regulatory Compliance
+Technical Documentation Access
 
-To guarantee the mathematical completeness of the system operators and to safeguard the structural integrity of the baseline synthesis parameters, the source materials contained herein are bound to an unmodifiable legal structure.
+The complete set of physical parameters, operational tolerances, mathematical operators, continuity thresholds, and computational models are hosted entirely within the main documentation file uploaded in this repository.
 
-The architecture is governed by a combined restrictive open-access mechanism, enforcing compliance via a dual-licensing protocol:
-
-    Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) This deployment restricts the distribution of modified iterations, ensuring that the foundational mathematical frameworks and continuity thresholds remain unchanged.
-
-    Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) This status explicitly prohibits commercial exploitation, proprietary integration, or industrial use without prior formal authorization from the architect.
-
-The complete set of physical parameters, operational tolerances, and computational models are hosted entirely within the primary documentation file of this repository.
+This asset contains the comprehensive analytical framework required for independent scientific replication and evaluation.
 
 Authorized Corporate Sign-off & Archival Release | Daniel Silviu Boghian
