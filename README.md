@@ -1,6 +1,8 @@
 The AXION Project: Boghianite-S v2.2 Master Blueprint
 Operational Overview
 
+**Digital Object Identifier:** https://doi.org/10.5281/zenodo.20417731
+
 This repository functions as the official digital archive for the Boghianite-S v2.2 Living Structural Metamaterial Architecture, an independent research endeavor developed within the overarching framework of The AXION Project.
 
 The primary objective of this repository is to provide a centralized location for the core technical asset, ensuring a verified point of access for independent verification and analytical review.
